@@ -1,0 +1,58 @@
+{
+        "id": "",
+        "name": "",
+        "code": "",
+        "phone": "",
+        "email": "",
+        "avatar": "",
+        "gender": true,
+        "birthday": "",
+        "created_by": "",
+        "branch_id": "arslWl62Hh",
+        "joining_date": "",
+        "registered_at": "",
+        "password": "123456",
+        "status": 1,
+        "user_type": 2,
+        "is_working": 1,
+        "password_confirmation": "123456",
+        "setup_salary_user": {
+            "type": 0,
+            "salary": 20000000,
+            "user_id": "",
+            "insurance_price": 5000000,
+            "setup_salary_user_allowance_types": [
+                {
+                    "id": "NMhlFDDYyP",
+                    "salary": 50000000,
+                    "type": 1,
+                    "allowance_type_id": "NMhlFDDYyP",
+                    "setup_salary_user_id": "",
+                    "allowance": {
+                        "id": "",
+                        "name": "",
+                        "salary": 0,
+                        "type": 0
+                    }
+                }
+            ],
+            "is_allowance": true
+        },
+        "created_at": "2025-08-05",
+        "is_single_checkin_per_day": false,
+        "is_must_check_in_at_shift_start": false,
+        "roles": [
+            {
+                "id": "gSVeYJ6b8n",
+                "name": "Nhân viên",
+                "slug": "nhan-vien",
+                "color": "#5C6BC0",
+                "description": null,
+                "user_type_id": 2,
+                "parent_id": null,
+                "status": true
+            }
+        ],
+        "department_id": "8Tdz0tOWOa",
+        "team_id": "CHiINNpo1N"
+    }
